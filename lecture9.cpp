@@ -37,10 +37,11 @@ class & objects
 ----------------------
 - class is a factory which is use to produce an object 
 - Classes are logical abstraction while objects have physical existance
-logical abstraction ? --> 
+- logical abstraction ? --> a logical/design-level representation that shows
+ what something should contain or do, without creating the actual thing.
 
 how to create class 
-private: --> isme jo bhi hoga voh real world se hide ho jayega
+-----------------------
 class <classname>{
     private:
       data members[private components] / function [private process]
