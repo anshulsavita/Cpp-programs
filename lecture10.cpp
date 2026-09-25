@@ -51,7 +51,7 @@ class Student{
         }
 };
 int main(){
-    Student S1,S2;
+    Student S1,S2; // s1 and s2 are two objects
     //cout<<sizeof(S1);
     S1.getStudent();
     S2.getStudent();
