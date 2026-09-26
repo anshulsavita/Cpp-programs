@@ -1,4 +1,5 @@
-// pop (Procedure-Oriented Programming)--> We divide a big program into functions/procedures and solve the problem step-by-step.
+// pop --> Procedure-Oriented Programming.
+// - We divide a big program into functions/procedures and solve the problem step-by-step.
 // -----------
 // Adv 
 // - Procedure oriented
@@ -15,18 +16,18 @@
 // - Procedure Oriented
 //     this approach gets fail when module grew larger
 
-// OOPS --> Object Oriented Programming System
-//  - OOP is a programming approach where we organize a program using objects and classes that contain data and functions together.
+// OOPS --> Object Oriented Programming System.
+//  - OOPS is a programming approach where we organize a program using objects and classes that contain data and functions together.
 // --------
 // object 
 //     --> These are real world entities
 
 // Advantages of OOP -->
-// Reusability – code can be reused through inheritance.
-// Security – data can be protected using encapsulation.
-// Easy maintenance – code is organized into classes and objects.
-// Flexibility – polymorphism allows different implementations.
-// Modular – large programs can be divided into smaller classes.
+// - Reusability – code can be reused through inheritance.
+// - Security – data can be protected using encapsulation.
+// - Easy maintenance – code is organized into classes and objects.
+// - Flexibility – polymorphism allows different implementations.
+// - Modular – large programs can be divided into smaller classes.
 
 // Disadvantages of OOP -->
 // - More complex than procedural programming for small programs.
