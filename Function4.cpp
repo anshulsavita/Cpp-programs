@@ -1,7 +1,7 @@
 /*
 Function -->
 ------------
-    -use to devide a large program in a small module
+    - use to devide a large program in a small module
     - one can call functions any time any where in a program multiple times thus it provides reusability of code 
 
 Syntax --> 
@@ -15,6 +15,7 @@ Syntax -->
      Ex -->
 table(5);
 k=sum(3,4,10)
+
 - if argument type is void then no value/parameter transfer by function
 ex -->
 address()
