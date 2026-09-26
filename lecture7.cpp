@@ -13,7 +13,7 @@ using namespace std;
 // C++ Programming
 // -------------------
 
-// iostream.h
+// iostream
 // ---------------
 // input output stream
 // ostream(class)          istream(class)

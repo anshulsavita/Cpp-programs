@@ -1,16 +1,12 @@
 #include<iostream>
 using namespace std;
-// c++ is bottom to top uproach
+
 // class Student{
 //     private:
-//         /* DATA MEMBERS / INSTANCE VARIABLES
-//         Variables declared inside a class are called data members.*/
 //         int rollno;
 //         string name;
 //         int p,c,m;
 //     public:
-//         /* MEMBER FUNCTION / METHOD
-//         A function declared inside a class is called a member function.*/
 //         void getStudent(){
 //             cout<<"Enter Rollno:";
 //             cin>>rollno;
@@ -35,8 +31,9 @@ using namespace std;
 // };
 // int main(){
 //     Student S1,S2; // s1 and s2 are two objects
-//     // cin>>S1.rollno; // it can't be directly excess cause it is a private member
+//     // cin>>S1.rollno; // rollno can't be directly excess because it is a private member.
 //     //cout<<sizeof(S1);
+
 //     // Admin
 //     S1.getStudent();
 //     S2.getStudent();

@@ -51,12 +51,12 @@ class <classname>{
       data members / function 
 }
 Private:
-members which declare in this section of class are totally hidden 
+- members which declare in this section of class are totally hidden 
 and can not access by any external function(other object function) even main()
-only public/private function of same class can access thewe members.
+only public/private function of same class can access these members.
 
 Public:
-members which declare in this section of class can access by any external function
+- members which declare in this section of class can access by any external function
 even main with "help of object name"
 
 */

@@ -54,7 +54,7 @@ int on()
 {}
 int off()
 {}
-is possible but problem is that in real world there is Zero independent process so these functions are unnessiory.
+is possible but problem is that in real world there is Zero independent process so these functions are unnecessary.
 so for real world process we use c++
 
 Syntax --> 
@@ -64,7 +64,7 @@ Syntax -->
     ==========
     return <value>
 }
-function name must be meaning full (real world)
+function name must be meaningfull (real world)
 */
 // example from c -->
 int add(int x,int y){ //called function [formal arguments]
